@@ -1,4 +1,4 @@
-# Landing Page - Emmanuel (Licenciado en Periodismo)
+# Landing Page - Dilan (Licenciado en Periodismo)
 
 Proyecto de landing page profesional de una sola página con una paleta de azules, animaciones y secciones: Aptitudes, Resumen Profesional, Historial Educativo, Trabajos Anteriores y Datos de Contacto.
 
@@ -26,4 +26,3 @@ Proyecto de landing page profesional de una sola página con una paleta de azule
 
 ## Licencia
 Uso libre para fines demostrativos.
-
